@@ -1,0 +1,96 @@
+
+         http://localhost:7005/api/edison/productos
+
+       {
+ 
+       "nombre": "Libro Algebra",
+       "precio": 20.50,
+       "estado": true,
+       "fechaCaducidad": "2024-05-22",
+       },
+
+	 {
+ 
+       "nombre": "Libro Economia",
+       "precio": 10.50,
+       "estado": true,
+       "fechaCaducidad": "2024-08-02",
+       },
+	
+ 		
+	 {
+ 
+       "nombre": "Libro Algebra",
+       "precio": 20.50,
+       "estado": true,
+       "fechaCaducidad": "2024-05-22",
+       },
+	
+    {
+        "nombre": "Libro Algebra",
+        "precio": 20.50,
+        "estado": true,
+        "fechaCaducidad": "2024-05-22"
+    },
+    {
+        "nombre": "Cuaderno de Matemáticas",
+        "precio": 10.75,
+        "estado": true,
+        "fechaCaducidad": "2025-01-15"
+    },
+    {
+        "nombre": "Calculadora Científica",
+        "precio": 35.99,
+        "estado": false,
+        "fechaCaducidad": "2026-03-01"
+    },
+    {
+        "nombre": "Lápiz Mecánico",
+        "precio": 5.00,
+        "estado": true,
+        "fechaCaducidad": "2023-12-31"
+    },
+    {
+        "nombre": "Libro de Física",
+        "precio": 25.00,
+        "estado": true,
+        "fechaCaducidad": "2024-11-12"
+    },
+    {
+        "nombre": "Compás de Precisión",
+        "precio": 12.99,
+        "estado": false,
+        "fechaCaducidad": "2025-06-30"
+    },
+    {
+        "nombre": "Regla de 30 cm",
+        "precio": 3.50,
+        "estado": true,
+        "fechaCaducidad": "2026-09-20"
+    },
+    {
+        "nombre": "Bolígrafo de Gel",
+        "precio": 2.75,
+        "estado": false,
+        "fechaCaducidad": "2023-11-05"
+    },
+    {
+        "nombre": "Goma de Borrar",
+        "precio": 1.25,
+        "estado": true,
+        "fechaCaducidad": "2024-04-18"
+    },
+    {
+        "nombre": "Libro de Química",
+        "precio": 28.50,
+        "estado": true,
+        "fechaCaducidad": "2025-02-14"
+    },
+    {
+        "nombre": "Cuaderno de Dibujo",
+        "precio": 15.00,
+        "estado": true,
+        "fechaCaducidad": "2024-08-29"
+    }
+]
+
